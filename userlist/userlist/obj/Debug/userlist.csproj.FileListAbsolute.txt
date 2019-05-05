@@ -1,0 +1,10 @@
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.csprojAssemblyReference.cache
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.Form1.resources
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.Properties.Resources.resources
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.csproj.GenerateResource.cache
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.csproj.CoreCompileInputs.cache
+C:\Users\Ekber\source\repos\userlist\userlist\bin\Debug\userlist.exe.config
+C:\Users\Ekber\source\repos\userlist\userlist\bin\Debug\userlist.exe
+C:\Users\Ekber\source\repos\userlist\userlist\bin\Debug\userlist.pdb
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.exe
+C:\Users\Ekber\source\repos\userlist\userlist\obj\Debug\userlist.pdb
